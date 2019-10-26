@@ -1,4 +1,4 @@
-# drawing_isn-t_hard
+# Drawing isn't Hard
 Cool painting brush with ranbow coloring 
 
 <br><br>
